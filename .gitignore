@@ -1,0 +1,3 @@
+*.txt
+bundled_output/
+project_configs/**.rb
